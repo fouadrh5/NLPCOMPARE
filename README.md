@@ -1,24 +1,24 @@
 # NLPCOMPARE
 Python tool to compare 4 NLP tools (Stanford, Google SyntaxNet, spaCy and NLTK) in term of tokenization and POS features.
 
-Description:
-    The idea of this script is to use the NLP parsers to generate the Part of speech tags and compare the result between the different parsers. 
-    This Python script will be used to run any parser out of the following parsers and compare the Part of speach tags between them:
-    ##Stanford parser
-    ##Google parser
-    ##SpaCY parser
-    ##NLTK parser
-    ##Also, the user has the option to run them one by one or to run them all on the same input file.
+# Description:  
+     The idea of this script is to use the NLP parsers to generate the Part of speech tags and compare the result between the different parsers.  
+    This Python script will be used to run any parser out of the following parsers and compare the Part of speach tags between them:  
+    - Stanford parser  
+    - Google parser  
+    - SpaCY parser  
+    - NLTK parser  
+    - Also, the user has the option to run them one by one or to run them all on the same input file.
     ##This will save him/her a lot of time instead of waiting each parser to finish.
     ##All the options will be provided on easy-followed menu that will not terminate unless specified by the user.
     ##This script 
-##Quick dependency to be able to run it
-    ##Python 2.7.12 
-    ##Install all the above mentioned parsers
-    ##Xcode_11_beta_6
-    ##Ensure that the location of this file to be under the Stanford directory
+# Quick dependency to be able to run it
+    - Python 2.7.12 
+    - Install all the above mentioned parsers
+    - Xcode_11_beta_6
+    - Ensure that the location of this file to be under the Stanford directory
 
-##Usage:
+# Usage:
 ## You need to change the path from /Users/fouadomran/mytmp/ to a dirctory
 ##that has all the input file including the excel sheet
 ##python NLPCompare.py
