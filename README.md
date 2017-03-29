@@ -1,9 +1,9 @@
 # NLPCOMPARE
 Python tool to compare 4 NLP tools (Stanford, Google SyntaxNet, spaCy and NLTK) in term of tokenization and POS features.
 
-##Description:
-    ##The idea of this script is to use the NLP parsers to generate the Part of speech tags and compare the result between the different parsers. 
-    ##This Python script will be used to run any parser out of the following parsers and compare the Part of speach tags between them:
+Description:
+    The idea of this script is to use the NLP parsers to generate the Part of speech tags and compare the result between the different parsers. 
+    This Python script will be used to run any parser out of the following parsers and compare the Part of speach tags between them:
     ##Stanford parser
     ##Google parser
     ##SpaCY parser
